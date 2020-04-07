@@ -1,0 +1,23 @@
+{
+  "name": "virtual-keyboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint ./script.js"
+  },
+"devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.2.0"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dronwork3/virtual-keyboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dronwork3/virtual-keyboard/issues"
+  },
+  "homepage": "https://github.com/dronwork3/virtual-keyboard#readme"
+}
